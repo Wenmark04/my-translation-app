@@ -93,7 +93,7 @@ function App() {
         }}
       >
  <img 
-  src="/tabios.png" 
+  src="/glendy.png" 
   alt="Tabios" 
   width="500" 
   height="500" 
